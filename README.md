@@ -3,6 +3,9 @@
 
 ## AIM: 
 To create orthographic view of given 3D model
+## NAME:PAVITHRA E
+## REF.NO:24010962
+## DATE:4/12/2024
 
 ## REQUIREMENTS: 
 1. Autodesk fusion 360
@@ -36,6 +39,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
+![Untitled pdf pdf](https://github.com/user-attachments/assets/d0041c08-61ff-4e02-943c-ef007ff2bb6d)
 
 
 ## RESULT:
